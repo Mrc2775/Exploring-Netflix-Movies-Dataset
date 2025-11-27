@@ -9,11 +9,17 @@ Goal: Learn to clean, query, and visualize data.
 
 Steps:
 Load dataset with Pandas.
+
 Answer questions with simple analysis:
+
 How many movies vs TV shows?
+
 Most common genres?
+
 Top 5 countries producing content?
+
 Create visualizations (bar chart, pie chart).
+
 Write conclusions in a Jupyter Notebook.
 
 Outcome: A beginner-friendly analysis notebook (no ML yet, just data exploration).
