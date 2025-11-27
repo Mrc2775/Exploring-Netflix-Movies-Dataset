@@ -2,9 +2,22 @@
 
 Data analysis project using the Netflix Movies & TV Shows dataset from Kaggle.
 
-- Tools: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
-- Questions:
-  - How many Movies vs TV Shows?
-  - What are the most common genres?
-  - What are the top 5 countries producing content?
-- Includes bar charts, pie charts, and written conclusions in the notebook.
+Dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Goal: Learn to clean, query, and visualize data.
+
+
+Steps:
+Load dataset with Pandas.
+Answer questions with simple analysis:
+How many movies vs TV shows?
+Most common genres?
+Top 5 countries producing content?
+Create visualizations (bar chart, pie chart).
+Write conclusions in a Jupyter Notebook.
+
+Outcome: A beginner-friendly analysis notebook (no ML yet, just data exploration).
+
+Skills: Python, Pandas, Matplotlib/Seaborn, storytelling with data.
+
+
